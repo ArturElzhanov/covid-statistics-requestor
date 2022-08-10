@@ -1,0 +1,18 @@
+{
+    "All": {
+        "administered": 150577493,
+        "people_vaccinated": 53009757,
+        "people_partially_vaccinated": 54529535,
+        "country": "France",
+        "population": 64979548,
+        "sq_km_area": 551500,
+        "life_expectancy": "78.8",
+        "elevation_in_meters": 375,
+        "continent": "Europe",
+        "abbreviation": "FR",
+        "location": "Western Europe",
+        "iso": 250,
+        "capital_city": "Paris",
+        "updated": "2022/08/10 00:00:00+00"
+    }
+}
